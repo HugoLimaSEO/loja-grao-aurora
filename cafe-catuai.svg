@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#efe4d3"/>
+  <path d="M190 150 h220 l30 360 h-280 z" fill="#3b2418"/>
+  <path d="M190 150 h220 l6 60 h-232 z" fill="#2c1a11"/>
+  <rect x="215" y="260" width="170" height="150" rx="6" fill="#f7f1e8"/>
+  <circle cx="300" cy="305" r="24" fill="#c9822b"/>
+  <ellipse cx="300" cy="305" rx="9" ry="16" fill="#3b2418"/>
+  <text x="300" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#3b2418">Grão Aurora</text>
+  <text x="300" y="388" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="2" fill="#7a6a5f">CATUAÍ AMARELO · 250 G</text>
+</svg>
